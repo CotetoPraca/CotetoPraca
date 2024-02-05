@@ -1,5 +1,12 @@
-### Hi there 👋
+#👋 Hello! Welcome to my Github profile
+## My name is Lucas Praça and my nickname is "Coteto"!
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CotetoPraca&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CotetoPraca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 <!--
 **CotetoPraca/CotetoPraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
